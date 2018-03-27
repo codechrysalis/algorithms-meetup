@@ -22,8 +22,8 @@ The longest length (an integer).
 
 ## Example
 
-Given the above example, the answer would be 10.
+Given the above example, the answer would be 11.
 
-Reasoning: Starting from the `a` in the top-left corner...
+Reasoning: Starting from the `b` in the second column in the top row...
 
-`a` -> `b` -> `a` -> `b` -> `c` -> `d` -> `e` -> `f` -> `e` -> `d`
+`b` -> `a` -> `b` -> `a` -> `b` -> `c` -> `d` -> `e` -> `f` -> `e` -> `d`
