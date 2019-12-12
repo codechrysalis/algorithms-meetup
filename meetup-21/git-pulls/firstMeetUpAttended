@@ -1,0 +1,13 @@
+
+var monthOfDate = "December";
+
+function meetUp(firstTimer) {
+
+  if (firstTimer === "Atila") {
+    return "Welcome to your firstMeetUp Atila";
+  } else  {
+    return "Welcome stranger";
+  }
+}
+
+console.log(meetUp("Atila"));
