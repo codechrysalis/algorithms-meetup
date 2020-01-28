@@ -1,5 +1,7 @@
 # Maze Path
 
+## Summary
+
 Given a maze in the form of a binary rectangular matrix, find the length of the shortest path in a maze from a given source to given destination.
 
 The path can only be constructed out of cells having the value 1 and movement is limited to one adjacent cell up, down, left, or right.
