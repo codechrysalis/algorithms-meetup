@@ -8,9 +8,9 @@
 
 ## Links
 
-[Job hunting in a global pandemic? We got you.](https://medium.com/code-chrysalis/job-hunting-in-a-global-pandemic-and-recession-b7e93ec74d6b)
-[Hiring freeze chart](https://candor.co/hiring-freezes/?)
-[Compare salaries](http://levels.fyi/)
+* [Job hunting in a global pandemic? We got you.](https://medium.com/code-chrysalis/job-hunting-in-a-global-pandemic-and-recession-b7e93ec74d6b)
+* [Hiring freeze chart](https://candor.co/hiring-freezes/?)
+* [Compare salaries](http://levels.fyi/)
 
 ### Graphs and Trees**
 
@@ -22,7 +22,7 @@ Definitions and terminology:
 ### Important procedures: traversal, heaps, search, etc.:
 
 * [Playlist of videos explaining graph theory topics and algorithms](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P), by William Fiset on youtube. [Plus implementations in Java](https://github.com/williamfiset/Algorithms/tree/master/src/main/java/com/williamfiset/algorithms/graphtheory)
-[Binary Search Tree chapters](http://greenteapress.com/thinkdast/html/thinkdast014.html) from Think Data Structures, code examples in Java.
+* [Binary Search Tree chapters](http://greenteapress.com/thinkdast/html/thinkdast014.html) from Think Data Structures, code examples in Java.
 
 ## Other Tips
 
